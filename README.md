@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomas-Lemoine
-- 👀 I’m interested in CS, math, rationality and AI
-- 🌱 I’m currently learning programming in python
+- 👀 I’m interested in CS, math, rationality and AI / AI safety
+- 🌱 I'm currently learning programming in several languages (mainly Python, Java, C, Bash, Ocaml)
 - 📫 How to reach me : lemoine123thomas@gmail.com
 
 <!---
